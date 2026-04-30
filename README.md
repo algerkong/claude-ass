@@ -2,6 +2,12 @@
 
 A Chrome extension (Manifest V3) that decorates the sparkle icon on [claude.ai](https://claude.ai) with a custom background image of your choosing. Configure size, opacity, position, and the sparkle's own colour from a small popup UI.
 
+## Screenshots
+
+| Claude.ai with a custom background | Popup configuration |
+| --- | --- |
+| ![Claude.ai page with custom sparkle background](screenshots/claude-page.png) | ![Popup with drag preview and controls](screenshots/popup.png) |
+
 ## Features
 
 - Upload one or more images (up to 4 MB each) and pick which one to show.
