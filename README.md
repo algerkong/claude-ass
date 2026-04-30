@@ -4,9 +4,13 @@ A Chrome extension (Manifest V3) that decorates the sparkle icon on [claude.ai](
 
 ## Screenshots
 
-| Claude.ai with a custom background | Popup configuration |
-| --- | --- |
-| ![Claude.ai page with custom sparkle background](screenshots/claude-page.png) | ![Popup with drag preview and controls](screenshots/popup.png) |
+**On claude.ai**
+
+![Claude.ai page with a custom sparkle background](screenshots/claude-page.png)
+
+**Popup configuration**
+
+![Popup with drag preview and controls](screenshots/popup.png)
 
 ## Features
 
