@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Claude Loading Art",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Decorate Claude.ai's sparkle icon with your own background art.",
   "icons": {
     "16": "icons/icon16.png",
